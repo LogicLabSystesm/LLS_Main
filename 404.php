@@ -72,9 +72,9 @@
                         <!-- Topbar Social Links Start -->
                         <div class="topbar-social-links">
                             <ul>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                <li><a href="https://x.com/LogicLabSystems"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61574871850789"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/logiclabsystems/"><i class="fa-brands fa-instagram"></i></a></li>
                             </ul>
                         </div>
                         <!-- Topbar Social Links End -->
@@ -103,7 +103,7 @@
                             <ul class="navbar-nav mr-auto" id="menu">
                                 <li class="nav-item submenu"><a class="nav-link" href="/">Home</a>
                                     <ul>
-                                        <li class="nav-item"><a class="nav-link" href="index-2">Home - Image</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="/">Home - Image</a></li>
                                         <li class="nav-item"><a class="nav-link" href="index-video">Home - Video</a></li>
                                         <li class="nav-item"><a class="nav-link" href="index-slider">Home - Slider</a></li>
                                     </ul>
@@ -207,10 +207,10 @@
                         <!-- Footer Social Links Start -->
                         <div class="footer-social-links">
                             <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                
+                                <li><a href="https://x.com/LogicLabSystems"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61574871850789"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/logiclabsystems/"><i class="fa-brands fa-instagram"></i></a></li>
                             </ul>
                         </div>
                         <!-- Footer Social Links End -->
@@ -238,7 +238,7 @@
                     <div class="footer-links footer-quick-links">
                         <h3>Quick link</h3>
                         <ul>
-                            <li><a href="index-2">home</a></li>
+                            <li><a href="/">home</a></li>
                             <li><a href="about">about us</a></li>
                             <li><a href="services">services</a></li>
                             <li><a href="blog-single">blog</a></li>
@@ -280,7 +280,7 @@
                     <div class="footer-links">
                         <h3>Contact</h3>
                         <ul>
-                            <li><a href="tel:+123456789">+123 456 789</a></li>
+                            <li><a href="tel:+91 92740-95595">+91 92740-95595</a></li>
                             <li><a href="mailto:info@domain.com">info@domain.com</a></li>
                             <li>123 High Street LN1 1AB United Kingdom</li>
                         </ul>
